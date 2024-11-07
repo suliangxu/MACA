@@ -1,0 +1,11 @@
+matplotlib
+numpy
+pycocotools
+scipy
+six
+terminaltables
+transformers==4.35.2
+nltk==3.8.1
+scikit-learn==1.3.2
+mmcv-full==1.6.0
+yapf==0.40.1
