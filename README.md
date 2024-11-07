@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Introduction
 
 This repository hosts the source code of our paper: [[SIGIR 2024\]MACA: Memory-aided Coarse-to-fine Alignment for Text-based Person Search](https://dl.acm.org/doi/abs/10.1145/3626772.3657915). MACA achieves the **state-of-the-art** performance on two benchmarks (*i.e.*, CUHK-SYSU-TBPS and PRW-TBPS). 
@@ -120,7 +119,3 @@ python tools/test.py configs/text-based_person_search/MACA_PRW_faster_rcnn.py MA
 }
 ```
 
-=======
-# MACA
-This is the official implementation for our SIGIR24 paper "MACA: Memory-aided Coarse-to-fine Alignment for Text-based Person Search". The code will be released soon. Thanks for your attention.
->>>>>>> 5631bb0e1a4dd612635d0b04d84501b6fb3f0d2a
